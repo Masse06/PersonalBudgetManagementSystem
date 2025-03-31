@@ -1,0 +1,24 @@
+# Archivos generados por el compilador de Java
+*.class
+
+# Archivos de configuración de IDEs comunes
+.idea/
+*.iml
+.vscode/
+
+# Archivos generados por el sistema de construcción (Maven, Gradle, etc.)
+target/
+build/
+
+# Archivos temporales de Eclipse
+*.log
+*.bak
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.swp
+*.swo
+
